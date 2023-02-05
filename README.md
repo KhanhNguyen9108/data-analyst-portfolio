@@ -1,1 +1,45 @@
-# data-analyst-portfolio
+# Khanh Nguyen - Data Analyst Portfolio
+This is a tracking of my progress in Data Analytics.
+<br>
+## Table of contents:
+- [Projects](#projects)<br>
+            + [Customer Segmentation](#customer-segmentation)<br>
+            + [Value-at-Risk and Expected Shortfall](#value-at-risk-and-expected-shortfall)<br>
+            + [A/B Test with a Mobile Game](#ab-test-with-a-mobile-game)<br>
+            + [H/R Analysis](#hr-analysis)<br>
+- [Certificates](#certificates)
+
+## Projects:
+
+### Customer Segmentation
+**Description:** Using the online transaction dataset from [`Kaggle`](https://www.kaggle.com/datasets/marian447/retail-store-sales-transactions) to identify the customer purchase patterns with RFM analysis, KMeans and Cohort analysis with Python. Besides, PowerBi files for interactive visualizations and SQL code for retrieving data are also included.<br>
+**Code:**<br>
+**Visualization:**<br>
+**Skills:** data transformation, data visualization, descriptive statistics, unsupervised machine learning (clustering), designing analytical report/dashboard, Python coding, DAX coding, SQL coding <br>
+**Technology:** <br>
++ Python: pandas, numpy, matplotlib, seaborn, sklearn
++ PowerBi
++ MS SQL 
+
+### Value-at-Risk and Expected Shortfall
+**Description:** Using [`vnstock`](https://github.com/thinh-vu/vnstock) package to retrieve Vietnam stock price market; calculating return, risk, risk-adjusted return (Sharpe ratio, Sortino ratio) of the portfolio consisting of 5 stocks; using 3 methods to estimate Value-at-Risk and Expected Shortfall.<br>
+**Code:**<br>
+**Skills:** data transformation, data visualization, descriptive statistics, VaR estimation (parametric method, historical simulation, Monte-Carlo simulation), Python coding <br>
+**Technology:** Python: pandas, numpy, matplotlib, seaborn, scipy stats, vnstock <br>
+
+### A/B Test with a Mobile Game
+**Description:** Using the Cookie Cats mobile game dataset from [`Kaggle`](https://www.kaggle.com/datasets/mursideyarkin/mobile-games-ab-testing-cookie-cats) to evaluate the A/B test and make a conclusion whether to change the gate's position from level 30 to level 40.<br>
+**Code:**<br>
+**Skills:** data visualization, descriptive statistics, hypothesis testing (Shapiro-Wilk test, Levene test, t-test, Mann-Whitney U test), bootstrapping, Python coding <br>
+**Technology:** Python: pandas, numpy, matplotlib, seaborn, scipy stats <br>
+
+### H/R Analysis
+**Description:** Using HR dataset from Datacamp course to build PowerBi report on a company's workforce. The report consists of 4 pages: Overview, Demographics, Performance Tracker, Attrition. <br>
+**Visualization:**<br>
+**Skills:** data transformation, data visualization, descriptive statistics, designing analytical report/dashboard, DAX coding <br>
+**Technology:** PowerBI<br>
+
+## Certificates:
+ - PL 300;
+ - HackerRank SQL Advanced Skill Certificates;
+ - FRM (Financial Risk Management): Part 1 (Passing), Part 2 (in progress)
