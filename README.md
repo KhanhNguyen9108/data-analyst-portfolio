@@ -16,7 +16,7 @@ This is a tracking of my progress in Data Analytics.
 **Code:** [`CustomerSegmentation.ipynb`](https://github.com/KhanhNguyen9108/data-analyst-portfolio/blob/main/CustomerSegmentation.ipynb), [`cohort_rfm.sql`](https://github.com/KhanhNguyen9108/data-analyst-portfolio/blob/main/cohort_rfm.sql)<br>
 **Visualization:** [`rfm-analysis.pbix`](https://github.com/KhanhNguyen9108/data-analyst-portfolio/blob/main/rfm-analysis.pbix),[`cohort-analysis.pbix`](https://github.com/KhanhNguyen9108/data-analyst-portfolio/blob/main/cohort-analysis.pbix)<br>
 **Skills:** data transformation, data visualization, descriptive statistics, unsupervised machine learning (clustering), designing analytical report/dashboard, Python coding, DAX coding, SQL coding <br>
-**Tools:**<br>
+**Tools:**
 + Python: Pandas, numpy, matplotlib, seaborn, sklearn
 + PowerBi
 + MS SQL 
