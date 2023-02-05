@@ -1,4 +1,4 @@
-# Khanh Nguyen - Data Analyst Portfolio
+# Khanh Nguyen - Data Analysis Portfolio
 This is a tracking of my progress in Data Analytics.
 <br>
 ## Table of contents:
@@ -40,6 +40,6 @@ This is a tracking of my progress in Data Analytics.
 **Tools:** PowerBI<br>
 
 ## Certificates:
- - PL 300;
- - HackerRank SQL Advanced Skill Certificates;
- - FRM (Financial Risk Management): Part 1 (Passing), Part 2 (in progress)
+ - [PowerBi Data Analyst Associate](https://drive.google.com/drive/folders/1n6J0mjNSXXOoq033_Jx8PVfDPowdPbZq);
+ - [HackerRank SQL Advanced Skill Certificates](https://drive.google.com/drive/folders/1XSaSUOsEM4FgxWMqnsiV99IJegNk2OaA);
+ - FRM (Financial Risk Management): Part 1 ([Passed](https://drive.google.com/drive/folders/1n6J0mjNSXXOoq033_Jx8PVfDPowdPbZq)), Part 2 (in progress)
