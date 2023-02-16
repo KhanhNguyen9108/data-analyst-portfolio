@@ -18,7 +18,7 @@ This is a tracking of my progress in Data Analytics.
 **Skills:** data transformation, data visualization, descriptive statistics, unsupervised machine learning (clustering), designing analytical report/dashboard, Python coding, DAX coding, SQL coding <br>
 **Tools:**
 + Python: Pandas, numpy, matplotlib, seaborn, sklearn
-+ PowerBi
++ PowerBI
 + MS SQL 
 
 ### Value-at-Risk and Expected Shortfall
@@ -34,12 +34,12 @@ This is a tracking of my progress in Data Analytics.
 **Tools:** Python: pandas, numpy, matplotlib, seaborn, scipy stats <br>
 
 ### H/R Analysis
-**Description:** Using HR dataset from Datacamp course to build PowerBi report on a company's workforce. The report consists of 4 pages: Overview, Demographics, Performance Tracker, Attrition. <br>
+**Description:** Using HR dataset from Datacamp course to build PowerBI report on a company's workforce. The report consists of 4 pages: Overview, Demographics, Performance Tracker, Attrition. <br>
 **Visualization:** [`HR_Analysis.pbix`](https://github.com/KhanhNguyen9108/data-analyst-portfolio/blob/main/HR_Analysis.pbix)<br>
 **Skills:** data transformation, data visualization, descriptive statistics, designing analytical report/dashboard, DAX coding <br>
 **Tools:** PowerBI<br>
 
 ## Certificates:
- - [PowerBi Data Analyst Associate](https://drive.google.com/drive/folders/1n6J0mjNSXXOoq033_Jx8PVfDPowdPbZq);
+ - [PowerBI Data Analyst Associate](https://drive.google.com/drive/folders/1n6J0mjNSXXOoq033_Jx8PVfDPowdPbZq);
  - [HackerRank SQL Advanced Skill Certificates](https://drive.google.com/drive/folders/1XSaSUOsEM4FgxWMqnsiV99IJegNk2OaA);
  - FRM (Financial Risk Management): Part 1 ([Passed](https://drive.google.com/drive/folders/1n6J0mjNSXXOoq033_Jx8PVfDPowdPbZq)), Part 2 (in progress)
