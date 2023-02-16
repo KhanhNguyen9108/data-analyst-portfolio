@@ -35,7 +35,7 @@ This is a tracking of my progress in Data Analytics.
 
 ### H/R Analysis
 **Description:** Using HR dataset from Datacamp course to build PowerBI report on a company's workforce. The report consists of 4 pages: Overview, Demographics, Performance Tracker, Attrition. <br>
-**Visualization:** [`HR_Analysis.pbix`](https://github.com/KhanhNguyen9108/data-analyst-portfolio/blob/main/HR_Analysis.pbix), [`slide image`](<br>
+**Visualization:** [`HR_Analysis.pbix`](https://github.com/KhanhNguyen9108/data-analyst-portfolio/blob/main/HR_Analysis.pbix), [`slide image of .pbix file`](https://github.com/KhanhNguyen9108/data-analyst-portfolio/blob/main/HR_ANALYSIS.pdf)<br>
 **Skills:** data transformation, data visualization, descriptive statistics, designing analytical report/dashboard, DAX coding <br>
 **Tools:** PowerBI<br>
 
